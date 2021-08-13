@@ -1,0 +1,48 @@
+.table2{
+  position: relative;
+    top: 21vh;
+    width: 87vw;
+    left: 10vw;
+    border-collapse: collapse;
+    border-width: 1vw;
+}.title{
+  position: relative;
+    top: 10vh;
+    left: 9vw;
+}.size{
+  display: inline-block;
+    margin-left: 0.3vw;
+    position: relative;
+    left: -4vw;
+}.place{
+  position: relative;
+    top: 14vh;
+    width: 22vw;
+    left: 11vw;
+}.create{
+  position: relative;
+    left: 62vw;
+    top: 17vh;
+    display: inline-block;
+}.dis{
+      display :none;
+}.divbutton{
+  position: absolute;
+  top: 89vh;
+  left: 6vw;
+}.right{
+  position: relative;
+  left: 74vw;
+}
+.notfoundplace{
+  position: relative;
+  top: 63vh;
+  left: 49vw;
+}.divpanel{
+  width: 60vw;
+  height: 0.2vh;
+  background-color: gainsboro;
+  position: relative;
+  top: 11vh;
+  left: 9vw;
+}

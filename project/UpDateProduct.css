@@ -1,0 +1,12 @@
+.AllPage{
+    position: relative;
+    top: 8vh;
+    left: 12vw;
+    width: 66vw;
+    }.create{
+        position: relative;
+        left: 75vw;
+        top: 3vh;
+    }.dis{
+      display :none;
+    }

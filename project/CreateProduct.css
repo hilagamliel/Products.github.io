@@ -1,0 +1,31 @@
+.AllPage{
+    position: relative;
+    top: 16vh;
+    left: 15vw;
+    width: 66vw;
+}.title{
+    position: relative;
+    top: -7vh;
+    left: -4vw;
+}.b{
+    color: #fff;
+    background-color: gray;
+    border-color: brown;
+    box-shadow: -1px 1px 7px red;
+}.size{
+    height: 6vh;
+    width: 14vw;
+    top: 1vh;
+}.sizesave{
+    height: 6vh;
+    width: 46vw;
+    position: relative;
+    left: -8vw;
+}.divpanel{
+    width: 60vw;
+    height: 0.2vh;
+    background-color: gainsboro;
+    position: relative;
+    top: -7vh;
+    left: -4vw; 
+}

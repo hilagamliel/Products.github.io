@@ -1,0 +1,23 @@
+.imgproduct{
+  position: relative;
+  width: 18vw; 
+}
+.titel{
+position: relative;
+  top: 11vh;
+  width: 59vw;
+  left: 14vw;
+}
+#tbl{
+position: relative;
+  top: 16vh;
+  width: 59vw;
+  left: 19vw;
+}.create{
+position: relative;
+  top: 11vh;
+  left: 73vw;
+}.place{
+  position: relative;
+    top: -10vh;
+}
